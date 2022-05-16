@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zedusman
 - 👀 I’m interested in Block-Chain and Web3
-- 🌱 I’m currently learning Computer Applicatio
+- 🌱 I’m currently learning Computer Application
 - 💞️ I’m looking to collaborate on projects 
 - 📫 You can reach me at usmanzed6@gmail.com
 
